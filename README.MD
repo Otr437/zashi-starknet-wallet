@@ -1,3 +1,4 @@
+Auther leon sage otr437
 # Zashi + Starknet Multichain Wallet
 
 **Shielded Zcash ↔ Starknet L2 – atomic swaps, no bridges, no custodians.**
