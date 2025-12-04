@@ -1,6 +1,6 @@
 // ============================================================================
 // COMPLETE PRODUCTION Zashi + Starknet Multichain Wallet - ALL VERSIONS MERGED
-// NOTHING REMOVED - FULL IMPLEMENTATION WITH ALL FEATURES
+//
 // ============================================================================
 //
 // build.gradle.kts:
